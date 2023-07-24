@@ -1,5 +1,5 @@
-# jit
-Information covering the JVM’s tiered compilation sybsystem.
+# 🧙 JIT
+Learn about tiered compilation and how methods are JIT compiled at runtime. 
 
 ## Contents
 ### Introduction
